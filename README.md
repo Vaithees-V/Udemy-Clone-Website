@@ -46,7 +46,7 @@ This project was created to improve my **HTML and CSS skills** and to practice c
 
 After deploying the project using GitHub Pages, add your live link here:
 
-**Live Demo:** ``
+**Live Demo:** `https://vaithees-v.github.io/Udemy-Clone-Website/`
 
 ## Author
 
