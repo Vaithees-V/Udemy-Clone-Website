@@ -72,7 +72,16 @@ body {
     color: white;
     padding: 10px;
     border-radius: 25px;
+    cursor: pointer;
+    border: solid #a435f0 1px;
 }
+.catagories p:hover{
+    transition: 2s;
+    background-color: transparent;
+    color: #a435f0;
+}
+
+
 .sale-image{
     width: 100%;
     height:500px;
