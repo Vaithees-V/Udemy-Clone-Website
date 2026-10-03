@@ -5,7 +5,7 @@ This project is an upgraded version of my previous Udemy clone, which was origin
 
 ## 🚀 Live Demo
 
-🔗 [View Live Website](YOUR_VERCEL_URL)
+🔗 [https://udemy-clone-website-seven.vercel.app/](YOUR_VERCEL_URL)
 
 ## 📌 Project Overview
 
