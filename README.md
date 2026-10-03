@@ -5,7 +5,7 @@ This project is an upgraded version of my previous Udemy clone, which was origin
 
 ## 🚀 Live Demo
 
-🔗 [https://udemy-clone-website-seven.vercel.app/](YOUR_VERCEL_URL)
+🔗 [View Live Website](https://perfumy-eta.vercel.app/)
 
 ## 📌 Project Overview
 
